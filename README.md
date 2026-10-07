@@ -1,18 +1,11 @@
 # Epha4_IGE_CRG
 
-This repo describes all the work carried out for the *Epha4* indirect genetic effects study
+This repo describes all the work carried out for the *Epha4* indirect genetic effects study detailed in [this manuscript](https://www.biorxiv.org/content/10.64898/2026.09.30.755759v1) 
 
 Example data to carry out the analysis provided in `/data`
 
 ### Requirements
-Software	Version
 python: 3.14
-NumPy: 2.4.2
-pandas: 2.3.3
-SciPy: 1.17.0
-statsmodels: 0.14.6
-Matplotlib: 3.10.8
-seaborn: 0.13.2
 
 After installing the proper Python version, you can install the dependencies from `requirements.txt`
 ```
