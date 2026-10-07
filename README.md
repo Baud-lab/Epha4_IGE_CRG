@@ -2,7 +2,7 @@
 
 This repo describes all the work carried out for the *Epha4* indirect genetic effects study detailed in [this manuscript](https://www.biorxiv.org/content/10.64898/2026.09.30.755759v1) 
 
-Example data to carry out the analysis provided in `/data`
+Example data to carry out the analysis provided in [`/data`](https://github.com/Baud-lab/Epha4_IGE_CRG/tree/main/data)
 
 ### Requirements
 python: 3.14
