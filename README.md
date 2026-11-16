@@ -18,7 +18,9 @@ Three phenotypes of the focal mouse were analyzed for this study in terms of the
 2. Immobility duration in the last four minutes of the Forced Swim Test
 3. Ear hole area
 
-Items 1 and 2 are combined in the same notebook (`fst_analysis.ipynb`) as it is the same dataset and 3. is analyzed in two steps (first, `woundhealing_preprocssing.ipynb` and then `woundhealing_analysis.ipynb`)
+Items 1 and 2 are combined in the same notebook (`FST_analysis.ipynb`) as it is the same dataset and 3. is analyzed in two steps (first, `woundhealing_preprocssing.ipynb` and then `woundhealing_analysis.ipynb`)
+
+**Data availability:** the ear hole area analysis (3.) can be run fully with the data in this repository. The FST analysis (1. and 2.) cannot: this repository includes only two example EthoVision files, which is enough to demonstrate the preprocessing step but not to fit the statistical models. To run the full FST analysis, download the complete dataset from Zenodo: [https://doi.org/10.5281/zenodo.23017774](https://doi.org/10.5281/zenodo.23017774)
 
 Social epistasis and model comparison globally uses outputs from all phenotypes and hence uses a separate script `social_epistasis.ipynb`
 
